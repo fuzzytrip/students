@@ -1,3 +1,7 @@
 Harry
 Ron
 Hermione
+--------------------------------------
+Neville
+Ginny
+Luna
